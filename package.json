@@ -1,0 +1,16 @@
+{
+  "name": "mobile-tech-whatsapp-webhook",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mobile Tech Jand WhatsApp Cloud API webhook",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
